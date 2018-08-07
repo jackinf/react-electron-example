@@ -2,7 +2,7 @@
   "name": "cra-electron",
   "description": "CRA + Electron sitting in a tree",
   "author": "jackinf",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "private": true,
   "dependencies": {
     "cross-env": "5.1.6",
